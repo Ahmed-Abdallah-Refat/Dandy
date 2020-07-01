@@ -1,2 +1,1 @@
-# Dandy
-Java Music Bot
+# Music-Java
